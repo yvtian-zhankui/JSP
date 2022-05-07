@@ -9,7 +9,7 @@ import java.util.*;
 
 public class Demo {
     public static void main(String[] args) throws Exception {
-        //获取当前项目路径
+        //获取当前项目路径test2
         //System.out.println(System.getProperty("user.dir"));
 
         //使用德鲁伊数据库连接池
